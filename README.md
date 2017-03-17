@@ -1,7 +1,20 @@
 # CSC-365-A3
+Doug Lea's Data Structures & File Processing (CSC 365)
+http://gee.cs.oswego.edu/dl/csc365/
 
-This is an assignment from [Doug Lea's](http://gee.cs.oswego.edu/) CSC 365, Data Structures and File Processing, Course at SUNY Oswego.
+Scroll down for descriptions of my completed assignments.
+## Topics Covered
+* Collections
+* Review and extension of arrays, lists, tables, trees.
+* Balanced trees
+* Persistence
+* Indexing, BTrees, Hashing
+* Sequential / IO
+* Serialization, Pipes, Sorting, Text searching, etc.
+* Graphs
+* Algorithms for traversal, connectivity, paths, flow
 
+## Assignment 3
 "Write a program that collects at least 500 Wikipedia pages and links from these pages to other Wikipedia pages.
 Collect word frequencies as in Assignments 1 and 2 (but feel free to limit to a fixed number of most frequent words). 
 
