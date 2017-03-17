@@ -35,7 +35,7 @@ There is a known error at the end of this README involving Prim's algorithm. Do 
 
 Research these algorithms and see how you can make their usage better in the program: `/src/Algorithms`
 
-# Running the Program
+### Running the Program
 ##Run `src/gui/A3GUI5`.
 This will launch src/frames/A3Frame5 of which you can change the size to your liking.
 ##Loading Edges
